@@ -1,0 +1,169 @@
+#contactparent{
+    background-color: #f8f9fb;
+    width: 100%; 
+    padding-bottom: 150px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contactdiv{
+    background-color: #e8e8e8;
+    width: 900px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#contactdiv h2{
+    font-size: 26pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 350;
+}
+
+#contactdiv h3{
+    font-size: 18pt;
+}
+
+#contactdiv p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt; 
+}
+
+#midcontact{
+    display: inline-block;
+    background-color:  #e8e8e8;
+    width: 283px;
+    vertical-align: top;
+    text-align: left;
+    margin-left: 50px;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    font-weight: 400;
+    
+}
+
+
+.building{
+    height: 500px ;
+    width: 900px ;
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.oad{
+    width: 320px;
+    height:100px;
+    display: inline-block;
+    background-color: bisque;
+    margin-left: 6%;
+    
+}
+
+
+#testdiv {
+    background-color: #f8f9fb;
+    padding-top: 20px;
+}
+
+
+#section-nav{
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 40%;
+
+}
+
+#section-nav a{
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+
+    font-size: 14pt;
+    color: black;
+}
+    
+#section-nav a:hover{
+    color: #bfd4e9;
+}
+
+
+.section-link{
+    color: #33679a;
+    vertical-align: middle;
+    text-decoration: none;
+    
+}
+
+#lowercontactbar{
+    background-color: #e8e8e8;
+    vertical-align: bottom;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+
+#lowercontactbar h5{
+    font-weight: bold;
+}
+
+#midcontact{
+    display: inline-block;
+    background-color: #f8f9fb;
+    width: 283px;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 20px;
+}
+
+#midcontact h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16pt;
+}
+
+#midcontact p{
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 12pt;
+}
+
+
+
+#rightcontact{
+    display: inline-block;
+    background-color: #f8f9fb;
+    width: 283px;
+    vertical-align: top;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+#rightcontact h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16pt;
+}
+
+
+#rightcontact p{
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 12pt;
+}
+
+#rightcontact a{
+    text-decoration: none;
+}
+
+#rightcontact a:hover{
+    color: #bfd4e9
+    
+}
+
+.navi{
+    margin-top: 7%;
+}
